@@ -1,0 +1,4 @@
+__pycache__
+src/chatgpt/data
+venv
+openai_api_key
